@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
  <key>Label</key>
- <string>com.josh.caffeinate</string>
+ <string>com.custom.nosleep</string>
  <key>ProgramArguments</key>
  <array>
   <string>/bin/zsh</string>
